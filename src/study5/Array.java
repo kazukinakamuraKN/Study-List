@@ -8,7 +8,7 @@ public class Array {
 10 個の数値を入力する。
 入力された各々の数値を 2 倍にして表示する。*/
 		int a[] = {1,2,3,4,5,6,7,8,9,10};
-		int b[] = new int[10];
+		//int b[] = new int[10];
 		for(int c = 0; c < a.length; c++){
 			System.out.println(a[c] * 2);
 		}
